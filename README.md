@@ -1,7 +1,7 @@
- <img width="422" alt="Screenshot 2023-05-31 121434" src="https://github.com/Naveenad2/Assembler/assets/125131354/960e80be-9c0c-46ab-b92d-356e0417ef78">
- 
 # Assembler with Debugging and Flag Inspection
 
+<img width="422" alt="Screenshot 2023-05-31 121434" src="https://github.com/Naveenad2/Assembler/assets/125131354/960e80be-9c0c-46ab-b92d-356e0417ef78">
+ 
 This project is a web-based assembler that allows you to write and run assembly language code, perform debugging, and inspect various flags. It is built using React, Spring, and MySQL database.
 
 ## Features
