@@ -61,5 +61,20 @@ This project is a web-based assembler that allows you to write and run assembly 
    - This project is licensed under the MIT License.
 ## ScreenShots
 
+1.CodeEditor
+<img width="422" alt="Screenshot 2023-05-31 121434" src="https://github.com/Naveenad2/Assembler/assets/125131354/960e80be-9c0c-46ab-b92d-356e0417ef78">
+
+2.Flag inspection and run each code
+<img width="444" alt="Screenshot 2023-05-31 121843" src="https://github.com/Naveenad2/Assembler/assets/125131354/4a4b7023-2ff1-4e69-8328-dde3cbec941c">
+
+3.Set input
+<img width="415" alt="Screenshot 2023-05-31 122143" src="https://github.com/Naveenad2/Assembler/assets/125131354/5a5ea4c7-d371-494b-b2ee-ad33d9ff7401">
+
+4.Memmory view
+<img width="422" alt="Screenshot 2023-05-31 122122" src="https://github.com/Naveenad2/Assembler/assets/125131354/5516b4a8-a3a0-4879-b38c-cb4c98190405">
+
+
+
+
 
 
