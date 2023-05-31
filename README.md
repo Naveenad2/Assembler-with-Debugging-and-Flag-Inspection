@@ -76,7 +76,7 @@ This project is a web-based assembler that allows you to write and run assembly 
 
 4.Memmory view
 
-    <img width="422" alt="Screenshot 2023-05-31 122122" src="https://github.com/Naveenad2/Assembler/assets/125131354/5516b4a8-a3a0-4879-b38c-cb4c98190405">
+   <img width="422" alt="Screenshot 2023-05-31 122122" src="https://github.com/Naveenad2/Assembler/assets/125131354/5516b4a8-a3a0-4879-b38c-cb4c98190405">
 
 
 
